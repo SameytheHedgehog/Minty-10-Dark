@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    width="24"
    height="24"
    viewBox="0 0 24 24"
@@ -39,14 +39,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="1860"
+     inkscape:window-height="1048"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="27.812867"
-     inkscape:cx="-11.201426"
-     inkscape:cy="8.5334016"
-     inkscape:window-x="0"
+     inkscape:zoom="16"
+     inkscape:cx="13.800352"
+     inkscape:cy="4.3213345"
+     inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
@@ -55,13 +55,15 @@
      id="rect4133"
      width="24.101694"
      height="2.4419999"
-     x="0"
-     y="21.660999" />
+     x="0.00064431952"
+     y="-2.4413376"
+     transform="rotate(90)" />
   <rect
-     style="fill:#ffffff;fill-opacity:0.29411766"
+     style="fill:#ffffff;fill-opacity:0.29411765"
      id="rect4133-3"
      width="24.101694"
      height="21.661016"
-     x="0"
-     y="-1.6464233e-05" />
+     x="0.00064431952"
+     y="-24.102354"
+     transform="rotate(90)" />
 </svg>

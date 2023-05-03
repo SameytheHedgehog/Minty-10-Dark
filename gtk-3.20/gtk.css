@@ -88,11 +88,6 @@ scrollbar {
   scrollbar slider {
     transition: 200ms ease-out; }
 
-decoration {
-  transition: 200ms ease-out; }
-  decoration:backdrop {
-    transition: 200ms ease-out; }
-
 assistant .sidebar label.highlight {
   color: #FFFFFF;
   background-color: #4D4D4D; }

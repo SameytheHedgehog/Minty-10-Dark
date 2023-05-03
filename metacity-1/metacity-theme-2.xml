@@ -13,19 +13,19 @@
 <constant name="C_title_focused" value="#ffffff" />
 <constant name="C_title_unfocused" value="#4c4c4c" />
 
-<constant name="C_wm_bg_focused" value="#1f1f1f" />
+<constant name="C_wm_bg_focused" value="#000000" />
 <constant name="C_wm_bg_unfocused" value="#1f1f1f" />
-<constant name="C_wm_border" value="#141414" />
-<constant name="C_wm_border_unfocused" value="#404040" />
+<constant name="C_wm_border" value="rgba(45,45,45,0.75)" />
+<constant name="C_wm_border_unfocused" value="rgba(45,45,45,0.75)" />
 <constant name="C_wm_highlight" value="rgba(0,0,0,0)" />
 
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="#1f1f1f" />
+<constant name="C_button_close_bg_focused" value="#000000" />
 <constant name="C_button_close_bg_unfocused" value="#1f1f1f" />
-<constant name="C_button_close_bg_hover" value="#ff5252" />
-<constant name="C_button_close_bg_active" value="#ff0000" />
+<constant name="C_button_close_bg_hover" value="#e81123" />
+<constant name="C_button_close_bg_active" value="#8b0a14" />
 
 <constant name="C_icon_close_bg_focused" value="#ffffff" />
 <constant name="C_icon_close_bg_unfocused" value="#bfbfbf" />
@@ -33,15 +33,15 @@
 <constant name="C_icon_close_bg_active" value="#ffffff" />
 
 <!-- minimize, maximize, etc. -->
-<constant name="C_button_bg_focused" value="#1f1f1f" />
+<constant name="C_button_bg_focused" value="#000000" />
 <constant name="C_button_bg_unfocused" value="#1f1f1f" />
-<constant name="C_button_bg_hover" value="#404040" />
-<constant name="C_button_bg_active" value="#5e5e5e" />
-	
-<constant name="C_icon_bg_focused" value="#000000" />
+<constant name="C_button_bg_hover" value="#1a1a1a" />
+<constant name="C_button_bg_active" value="#333333" />
+
+<constant name="C_icon_bg_focused" value="#ffffff" />
 <constant name="C_icon_bg_unfocused" value="#cfcfcf" />
-<constant name="C_icon_bg_hover" value="#000000" />
-<constant name="C_icon_bg_active" value="#000000" />
+<constant name="C_icon_bg_hover" value="#ffffff" />
+<constant name="C_icon_bg_active" value="#ffffff" />
 
 <!-- geometries -->
 
